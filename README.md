@@ -57,7 +57,7 @@
 
 <br>
 
-<h3 align="center"><font color="#00FF41">📡 Canales de Comunicación Seguros</font></h3>
+<h3 align="center"><font color="#00FF41">📡 hola perros locos</font></h3>
 <div align="center">
   <a href="mailto:tu-correo@gmail.com">
     <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
